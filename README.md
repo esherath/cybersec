@@ -43,7 +43,7 @@ Directory: [`/writeups`](./writeups)
 ## Repository Structure
 
 ```
-jeancarlos-security/
+cybersec/
 ├─ README.md
 ├─ writeups/
 ├─ scripts/
