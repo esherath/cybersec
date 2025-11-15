@@ -81,6 +81,4 @@ cybersec/
 
 ## Contact
 
-* LinkedIn: *(add link)*
-* Email: [team-ag@hotmail.com](mailto:team-ag@hotmail.com)
-* Location: Paraná – Brazil
+* LinkedIn: /esherath
